@@ -1,10 +1,10 @@
 
 <p> 
- 🖖 Hey guys!! This is <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is in transition for a full-stack carrer!
+ 🖖 Hey guys!! I am <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is in transition for a full-stack carrer!
 </p>
 
 <p> 
- ☕ Skills: <strong>HTML, CSS, JavaScript, JAVA.</strong>
+ ☕ Skills: <strong>HTML, CSS, JavaScript, JAVA (SpringBoot).</strong>
 </p>
 
 <p> 
