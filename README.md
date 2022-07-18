@@ -24,4 +24,4 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moise-s&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moise-s&layout=compact?theme=dark)
