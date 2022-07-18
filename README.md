@@ -23,3 +23,5 @@
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=[https://discord.gg/QevDJqCzaY](https://discordapp.com/users/711397945664339994)"/>
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moise-s&layout=compact)]
