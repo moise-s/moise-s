@@ -8,7 +8,7 @@
 </p>
 
 <p> 
-  💼 Tools: <strong>VS Code, Jupiter Notebook, Figma, Marvel, Trello, Git and GitHub.</strong>
+  💼 Tools: <strong>VS Code, Jupyter Notebook, Figma, Marvel, Trello, Git and GitHub.</strong>
 </p>
 
 
