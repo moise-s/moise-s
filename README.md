@@ -4,11 +4,11 @@
 </p>
 
 <p> 
- ☕ Skills: <strong>HTML, CSS, JavaScript, JAVA (SpringBoot).</strong>
+ ☕ Skills: <strong>HTML, CSS, JavaScript, JAVA (SpringBoot), Python.</strong>
 </p>
 
 <p> 
-  💼 Tools: <strong>VS Code, Figma, Marvel, Trello, Git and GitHub.</strong>
+  💼 Tools: <strong>VS Code, Jupiter Notebook, Figma, Marvel, Trello, Git and GitHub.</strong>
 </p>
 
 
