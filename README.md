@@ -24,4 +24,4 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moise-s&layout=compact?theme=dark)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?moise-s" frameborder="0"></iframe>
