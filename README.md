@@ -1,6 +1,6 @@
 
 <p> 
- 🖖 Hey guys!! I am <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is in transition for a full-stack carrer!
+ 🖖 Hey guys!! I am <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is in transition for a developer carrer!
 </p>
 
 <p> 
@@ -8,7 +8,7 @@
 </p>
 
 <p> 
-  💼 Tools: <strong>VS Code, Jupyter Notebook, Figma, Marvel, Trello, Git and GitHub.</strong>
+  💼 Tools: <strong>VS Code, Jupyter Notebook, Google Colab, Figma, Marvel, Trello, Git and GitHub.</strong>
 </p>
 
 
