@@ -1,6 +1,6 @@
 
 <p> 
- 🖖 Hey guys!! I am <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is in transition for a developer carrer!
+ 🖖 Hey guys!! I am <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is becoming a Data Engineer!
 </p>
 
 <p> 
