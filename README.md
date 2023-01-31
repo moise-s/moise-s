@@ -1,17 +1,6 @@
 
-<p> 
- 🖖 Hey guys!! I am <strong>Moisés do Nascimento</strong>, I'm an <strong>Electrical Engineer</strong> from Brazil who is becoming a Data Engineer!
-</p>
-
-<p> 
- ☕ Skills: <strong>HTML, CSS, JavaScript, JAVA (SpringBoot), Python.</strong>
-</p>
-
-<p> 
-  💼 Tools: <strong>VS Code, Jupyter Notebook, Google Colab, Figma, Marvel, Trello, Git and GitHub.</strong>
-</p>
-
-
+<h1 align="center">👋 Hey there!</h1>
+I'm <strong>Moisés do Nascimento</strong>
 <br>
 
 <p align="left">
